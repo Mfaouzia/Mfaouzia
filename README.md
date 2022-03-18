@@ -3,7 +3,7 @@
 - ✌️ I'm Mroivili Faouzia from Comoros Island in africa.
 - 🔭 I’m currently studing at [Tianjin University](http://www.tju.edu.cn/english/index.htm) as an Undergraduate Student.
 - 🌱 My major is Computer Science and Techology.
-- 🤔 I’m looking forward to an interview opportunity.
+- 🤔 I’m looking forward to an intership opportunity.
 - 📫 How to reach me: faouzia@tju.edu.cn
 - ⚡ Fun fact: I have grit in my life.
 
