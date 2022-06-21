@@ -1,4 +1,4 @@
-# Hello Dear visitor!!!
+# Hello Dear visitor!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 #### Welcome to my Github Profile! 😄
 - ✌️ I'm Mroivili Faouzia from Comoros Islands in africa.
 - 🔭 I’m currently studing at [Tianjin University](http://www.tju.edu.cn/english/index.htm) as an Undergraduate Student.
