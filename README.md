@@ -1,9 +1,8 @@
 # Hello Dear visitor!!!
 #### Welcome to my Github Profile! 😄
 - ✌️ I'm Mroivili Faouzia from Comoros Islands in africa.
-- 🔭 I’m currently studing at [Tianjin University](http://www.tju.edu.cn/english/index.htm) as an Undergraduate Student.
+- 🔭 I’m currently studing at [Tianjin University](http://www.tju.edu.cn/english/index.htm) 
 - 🌱 My major is Computer Science and Techology.
-- 🤔 I’m looking forward to an internship opportunity.
 - 📫 How to reach me: faouzia@tju.edu.cn
 - ⚡ Fun fact: I have grit in my life.
 
